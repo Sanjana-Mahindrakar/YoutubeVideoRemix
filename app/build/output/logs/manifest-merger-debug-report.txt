@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\60e57a15585613c061668aa88a775d0a\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\200260e1a21d4b53f118741680eaa054\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\ee41edb281a4f1a5b5c8f09e863bd929\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\84915b7e11032316e763ffdd339f5730\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5dc855de365105d847ef1f1afc2f42e0\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\aa0a0130cee03a65d1a4f894bcd0b77d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\1e1231b88a2ea7c5ef87c56adb8fc42b\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\fee800e94bc62c7945e294e0346d4b54\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\dfc133fe35cf835da9db883175e1f774\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\7553afa29ad74d827b0c6e55dc166689\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5ef4266b9200241ad5eedc1b71dc7431\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a66b8a82cc9d45c989659ec562b0d9bd\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a3b3ae2d63879a88791402041d6bd3c3\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\132a57f75afd4a8d8bd3604435b335b3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\6b903dabcc1eaeaa9170960757a3765c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\d9496d8999b93d1792eafa131f907378\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\7e98a60be90c075f65a9abc524462184\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\20695c414c7e3d77c41ba45e9ea511bd\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f23159166367a18f2b2eba4b7cd6506f\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\dd7d76069e189f4b23a76850909e12eb\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5c5bafefc3e74470f55e39f36a237870\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\9b242977e3ba9dee846a9c8baf7f48b3\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\8ce5c832ee7425f5816cc01a271cd8e5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\d4d045c936d8b6e7498023f25505c8ff\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\eca42a51b68bdef39fa26a2e129641ce\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\276262051b8b42d320f786a129937628\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\37251ca2122b0d255dc090267663c3e9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a0fc565d37d5fd3c8e6938d66854a102\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\05afbbfd847f3810fbda26289dd047ba\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\8b2e610e170f54ef46fa1f486335208d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f0ebc6200fcd8e035b3e6adddb1d1b48\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:8:9-52
+uses-feature#android.software.leanback
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:11:9-49
+application
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:14:5-43:19
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:14:5-43:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\200260e1a21d4b53f118741680eaa054\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\200260e1a21d4b53f118741680eaa054\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\20695c414c7e3d77c41ba45e9ea511bd\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\20695c414c7e3d77c41ba45e9ea511bd\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f23159166367a18f2b2eba4b7cd6506f\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f23159166367a18f2b2eba4b7cd6506f\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5c5bafefc3e74470f55e39f36a237870\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5c5bafefc3e74470f55e39f36a237870\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\20695c414c7e3d77c41ba45e9ea511bd\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:19:9-50
+activity#com.example.videoplayer1.MainActivity
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:20:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:27:13-50
+	android:label
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:25:13-45
+	android:exported
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:23:13-36
+	android:icon
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:24:13-59
+	android:banner
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:22:13-61
+	android:logo
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:26:13-59
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:31:17-86
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:31:27-83
+activity#com.example.videoplayer1.DetailsActivity
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:35:13-44
+activity#com.example.videoplayer1.PlaybackActivity
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:38:13-45
+activity#com.example.videoplayer1.BrowseErrorActivity
+ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml:41:13-48
+uses-sdk
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\60e57a15585613c061668aa88a775d0a\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\60e57a15585613c061668aa88a775d0a\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\200260e1a21d4b53f118741680eaa054\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\200260e1a21d4b53f118741680eaa054\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\ee41edb281a4f1a5b5c8f09e863bd929\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\ee41edb281a4f1a5b5c8f09e863bd929\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\84915b7e11032316e763ffdd339f5730\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\84915b7e11032316e763ffdd339f5730\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5dc855de365105d847ef1f1afc2f42e0\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5dc855de365105d847ef1f1afc2f42e0\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\aa0a0130cee03a65d1a4f894bcd0b77d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\aa0a0130cee03a65d1a4f894bcd0b77d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\1e1231b88a2ea7c5ef87c56adb8fc42b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\1e1231b88a2ea7c5ef87c56adb8fc42b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\fee800e94bc62c7945e294e0346d4b54\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\fee800e94bc62c7945e294e0346d4b54\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\dfc133fe35cf835da9db883175e1f774\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\dfc133fe35cf835da9db883175e1f774\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\7553afa29ad74d827b0c6e55dc166689\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\7553afa29ad74d827b0c6e55dc166689\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5ef4266b9200241ad5eedc1b71dc7431\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5ef4266b9200241ad5eedc1b71dc7431\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a66b8a82cc9d45c989659ec562b0d9bd\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a66b8a82cc9d45c989659ec562b0d9bd\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a3b3ae2d63879a88791402041d6bd3c3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a3b3ae2d63879a88791402041d6bd3c3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\132a57f75afd4a8d8bd3604435b335b3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\132a57f75afd4a8d8bd3604435b335b3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\6b903dabcc1eaeaa9170960757a3765c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\6b903dabcc1eaeaa9170960757a3765c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\d9496d8999b93d1792eafa131f907378\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\d9496d8999b93d1792eafa131f907378\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\7e98a60be90c075f65a9abc524462184\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\7e98a60be90c075f65a9abc524462184\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\20695c414c7e3d77c41ba45e9ea511bd\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\20695c414c7e3d77c41ba45e9ea511bd\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f23159166367a18f2b2eba4b7cd6506f\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f23159166367a18f2b2eba4b7cd6506f\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\dd7d76069e189f4b23a76850909e12eb\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\dd7d76069e189f4b23a76850909e12eb\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5c5bafefc3e74470f55e39f36a237870\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\5c5bafefc3e74470f55e39f36a237870\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\9b242977e3ba9dee846a9c8baf7f48b3\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\9b242977e3ba9dee846a9c8baf7f48b3\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\8ce5c832ee7425f5816cc01a271cd8e5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\8ce5c832ee7425f5816cc01a271cd8e5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\d4d045c936d8b6e7498023f25505c8ff\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\d4d045c936d8b6e7498023f25505c8ff\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\eca42a51b68bdef39fa26a2e129641ce\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\eca42a51b68bdef39fa26a2e129641ce\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\276262051b8b42d320f786a129937628\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\276262051b8b42d320f786a129937628\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\37251ca2122b0d255dc090267663c3e9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\37251ca2122b0d255dc090267663c3e9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a0fc565d37d5fd3c8e6938d66854a102\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\a0fc565d37d5fd3c8e6938d66854a102\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\05afbbfd847f3810fbda26289dd047ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\05afbbfd847f3810fbda26289dd047ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\8b2e610e170f54ef46fa1f486335208d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\8b2e610e170f54ef46fa1f486335208d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f0ebc6200fcd8e035b3e6adddb1d1b48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sanjana.mahindrakar\.gradle\caches\8.9\transforms\f0ebc6200fcd8e035b3e6adddb1d1b48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sanjana.mahindrakar\AndroidStudioProjects\VideoPlayer1\app\src\main\AndroidManifest.xml
