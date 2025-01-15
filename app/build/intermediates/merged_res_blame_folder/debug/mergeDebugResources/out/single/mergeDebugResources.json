@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/drawable_movie.png.flat",
+        "source": "com.example.videoplayer1.app-main-12:/drawable/movie.png"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.videoplayer1.app-main-12:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/drawable_default_background.xml.flat",
+        "source": "com.example.videoplayer1.app-main-12:/drawable/default_background.xml"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/layout_activity_main.xml.flat",
+        "source": "com.example.videoplayer1.app-main-12:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.videoplayer1.app-main-12:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.videoplayer1.app-main-12:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/layout_activity_details.xml.flat",
+        "source": "com.example.videoplayer1.app-main-12:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.videoplayer1.app-main-12:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.videoplayer1.app-main-12:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.videoplayer1.app-debug-10:/drawable_app_icon_your_company.png.flat",
+        "source": "com.example.videoplayer1.app-main-12:/drawable/app_icon_your_company.png"
+    }
+]

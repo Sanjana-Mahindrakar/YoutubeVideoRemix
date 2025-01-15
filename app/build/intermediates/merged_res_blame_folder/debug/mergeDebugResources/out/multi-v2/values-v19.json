@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.videoplayer1.app-mergeDebugResources-8:/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sanjana.mahindrakar\\.gradle\\caches\\8.9\\transforms\\60e57a15585613c061668aa88a775d0a\\transformed\\leanback-1.0.0\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "659"
+                    }
+                }
+            ]
+        }
+    ]
+}
